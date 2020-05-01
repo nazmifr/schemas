@@ -1,4 +1,4 @@
-# Structural Anatomy of a maple tree (Acer sp.)
+# Structural Anatomy of a maple tree (Acer sp.) leaf
 
 This is a **palmed leaf** with several **lobes**.
 
